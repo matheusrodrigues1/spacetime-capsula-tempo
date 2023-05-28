@@ -1,4 +1,4 @@
-<h1>request-credit-system</h1>
+<h1>NLW Spacetime - Sua capsula do tempo</h1>
 <p align="center">NLW Spacetime - Sua capsula do tempo</p>
 <p align="center">
      <a alt="React">
