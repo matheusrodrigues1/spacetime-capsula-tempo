@@ -22,7 +22,8 @@
 </p>
 
 <h3>Descrição do Projeto</h3>
-[![Vídeo de apresentação](https://i9.ytimg.com/vi_webp/D53jEa5Yti4/mq1.webp?sqp=CPDuzqMG&rs=AOn4CLD_g5ZCgmcUupNjsEMkHhBLDuC2uw)](https://youtu.be/D53jEa5Yti4)
+Video Apresentação: https://youtu.be/D53jEa5Yti4
+
 
 <p align="center">
 <br>
